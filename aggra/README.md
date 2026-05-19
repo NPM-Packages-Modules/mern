@@ -1,5 +1,7 @@
 # aggra
 
+**Topics:** `aggra` · `aggregation` · `mern-packages` · `merndev` · `mongodb` · `mongoose` · `nodejs` · `npm-pm` · `observability` · `pipeline` · `query` · `typescript`
+
 **Mongo aggregation pipeline builder** — compose `$match`, `$lookup`, `$group`, and friends in a chain so pipelines stay readable and reusable.
 
 ## Install

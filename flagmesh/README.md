@@ -1,5 +1,7 @@
 # flagmesh
 
+**Topics:** `feature-flags` · `flagmesh` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `rollout` · `saas` · `typescript`
+
 **flagmesh** is a tiny **feature-flag** helper: boolean rules, **`process.env` toggles**, and **percent rollouts** with stable hashing per `userId`.
 
 ```ts

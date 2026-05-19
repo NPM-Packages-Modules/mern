@@ -1,5 +1,7 @@
 # policyflow
 
+**Topics:** `authorization` · `express` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `permissions` · `policyflow` · `rbac` · `roles` · `typescript`
+
 **Auto permission generator** — lightweight RBAC-style policies with **role inheritance**, **`allow` lists**, and Express **route guards** so `403` handling stays consistent.
 
 ## Install

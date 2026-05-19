@@ -1,5 +1,7 @@
 # injectflow
 
+**Topics:** `container` · `di` · `express` · `injectflow` · `ioc` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `typescript`
+
 **Smart dependency injection** for Node/Express-sized apps — **register** factories by string token, **resolve** dependencies, optional **singleton** scope, and **reset** in tests without pulling in a full DI framework.
 
 ## Install

@@ -1,5 +1,7 @@
 # cost-limiter
 
+**Topics:** `ai-gateway` · `anthropic` · `budget` · `cost` · `cost-limiter` · `llm` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `openai` · `rate-limit` · `rate-limiting` · `redis` · `typescript`
+
 [![npm version](https://img.shields.io/npm/v/cost-limiter.svg)](https://www.npmjs.com/package/cost-limiter)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/cost-limiter)](https://bundlephobia.com/package/cost-limiter)
 [![license](https://img.shields.io/npm/l/cost-limiter.svg)](./LICENSE)

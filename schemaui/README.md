@@ -1,5 +1,7 @@
 # schemaui
 
+**Topics:** `form` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `react` · `schema` · `schemaui` · `typescript` · `ui` · `validation` · `zod`
+
 **Smart validation-to-form generator** — given a **`z.object`** schema, build a minimal **React** form (text / number / checkbox / select) and surface **field errors** in one component.
 
 ## Install

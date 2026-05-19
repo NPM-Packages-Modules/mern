@@ -1,5 +1,7 @@
 # hookmesh
 
+**Topics:** `express` · `hmac` · `hookmesh` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `saas` · `typescript` · `webhook`
+
 **hookmesh** provides **HMAC-SHA256 verification** (`sha256=<hex>` or raw hex), a trivial **in-process hook registry**, and **Express middleware** with **idempotency-key** deduplication (MVP — back with Redis for multi-instance).
 
 ```ts

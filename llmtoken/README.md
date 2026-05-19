@@ -1,5 +1,7 @@
 # llmtoken
 
+**Topics:** `anthropic` · `deepseek` · `gemini` · `groq` · `llm` · `llmtoken` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `ollama` · `openai` · `sse` · `stream` · `streaming` · `typescript`
+
 [![npm version](https://img.shields.io/npm/v/llmtoken.svg)](https://www.npmjs.com/package/llmtoken)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/llmtoken)](https://bundlephobia.com/package/llmtoken)
 [![license](https://img.shields.io/npm/l/llmtoken.svg)](./LICENSE)

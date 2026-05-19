@@ -1,5 +1,7 @@
 # renderguard
 
+**Topics:** `mern` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `performance` · `profiler` · `re-render` · `react` · `renderguard` · `typescript`
+
 Wrap subtrees with React **`Profiler`**, stream structured **`onRender`** metrics, optionally **warn** on slow commits, and compute a tiny **render score** from samples.
 
 ```tsx

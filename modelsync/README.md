@@ -1,5 +1,7 @@
 # modelsync
 
+**Topics:** `express` · `mern-packages` · `merndev` · `modelsync` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `schema` · `typescript`
+
 Keep Mongoose models, TypeScript types, and validation schemas synchronized automatically.
 
 ## Features

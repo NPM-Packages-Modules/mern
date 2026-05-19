@@ -1,5 +1,7 @@
 # heapguard
 
+**Topics:** `heap` · `heapguard` · `memory` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `performance` · `typescript`
+
 **heapguard** samples **Node heap usage**, exposes **v8 heap statistics**, and runs a tiny **growth-factor monitor** for leak suspects (MVP heuristic — pair with APM for production).
 
 ```ts

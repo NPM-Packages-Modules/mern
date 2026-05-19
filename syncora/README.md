@@ -1,5 +1,7 @@
 # syncora
 
+**Topics:** `mern` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `optimistic` · `react` · `realtime` · `subscription` · `sync` · `syncora` · `typescript` · `websocket`
+
 Realtime sync engine for MERN apps. Subscribe to collections from the browser with a single hook, get live updates over WebSockets, mutate with optimistic UI, and reconnect transparently. Works with the built-in in-memory store, your MongoDB change stream, or any custom backing store you plug in.
 
 ## Install

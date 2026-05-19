@@ -1,5 +1,7 @@
 # rulemesh
 
+**Topics:** `automation` · `events` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `rulemesh` · `rules` · `typescript` · `workflow`
+
 **Background automation rules engine** — register **`when(event, handler, match?)`** listeners and **`emit`** domain events from your services without hard-coding gigantic `switch` trees.
 
 ## Install

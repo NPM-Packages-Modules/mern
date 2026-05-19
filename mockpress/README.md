@@ -1,5 +1,7 @@
 # mockpress
 
+**Topics:** `api` · `express` · `mern-packages` · `merndev` · `mock` · `mockpress` · `nodejs` · `npm-pm` · `observability` · `testing` · `typescript`
+
 **mockpress** builds a **parallel Express app** from an existing app’s top-level route table (via `routecheck`) and serves **mock JSON** with optional **latency** and **random fault** injection.
 
 ## Usage

@@ -1,5 +1,7 @@
 # ratemesh
 
+**Topics:** `express` · `mern` · `mern-packages` · `merndev` · `middleware` · `nodejs` · `npm-pm` · `observability` · `rate-limiting` · `ratemesh` · `redis` · `typescript`
+
 Express **sliding-window rate limiter** with optional **adaptive tightening** when a client triggers many **4xx** responses (lightweight bot / abuse signal).
 
 ```ts

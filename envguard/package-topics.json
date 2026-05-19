@@ -1,0 +1,19 @@
+{
+  "topics": [
+    "ci",
+    "cli",
+    "dotenv",
+    "env",
+    "envguard",
+    "environment",
+    "mern-packages",
+    "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "schema",
+    "secrets",
+    "typescript",
+    "validation"
+  ]
+}

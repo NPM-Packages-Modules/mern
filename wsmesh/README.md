@@ -1,5 +1,7 @@
 # wsmesh
 
+**Topics:** `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `presence` · `realtime` · `redis` · `rooms` · `typescript` · `websocket` · `wsmesh`
+
 **Auto WebSocket infrastructure** (transport-agnostic) — **rooms**, **presence-style joins**, **`channel(name)`** helpers, and **disconnect cleanup** you can attach to `ws`, Socket.IO, or edge workers.
 
 ## Install

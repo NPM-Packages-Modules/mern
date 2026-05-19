@@ -1,0 +1,24 @@
+{
+  "topics": [
+    "astro",
+    "cli",
+    "config",
+    "dotenv",
+    "env",
+    "environment",
+    "envrunes",
+    "mern-packages",
+    "merndev",
+    "next",
+    "nextjs",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "schema",
+    "type-safe",
+    "typescript",
+    "validation",
+    "vite",
+    "zod"
+  ]
+}

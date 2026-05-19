@@ -1,5 +1,7 @@
 # promptver
 
+**Topics:** `a-b-testing` · `ab-testing` · `ai` · `anthropic` · `cli` · `llm` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `openai` · `prompt` · `promptver` · `rollback` · `typescript` · `versioning`
+
 [![npm version](https://img.shields.io/npm/v/promptver.svg)](https://www.npmjs.com/package/promptver)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/promptver)](https://bundlephobia.com/package/promptver)
 [![license](https://img.shields.io/npm/l/promptver.svg)](./LICENSE)

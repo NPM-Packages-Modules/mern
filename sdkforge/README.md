@@ -1,5 +1,7 @@
 # sdkforge
 
+**Topics:** `cli` · `codegen` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `openapi` · `sdk` · `sdkforge` · `typescript`
+
 **sdkforge** turns a minimal **OpenAPI 3** JSON file into a **TypeScript `fetch` client** class — good for bootstrapping internal SDKs and CI checks.
 
 ```bash

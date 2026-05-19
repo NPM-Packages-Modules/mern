@@ -1,5 +1,7 @@
 # queryforge
 
+**Topics:** `dashboard` · `filter` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `query` · `queryforge` · `rest` · `typescript`
+
 **Dynamic query builder** — convert `req.query` into **Mongo-style** `filter` / `sort` / `skip` / `limit` with explicit operator suffixes (`_gte`, `_in`, …) so dashboards stop reinventing filtering.
 
 ## Install

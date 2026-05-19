@@ -1,5 +1,7 @@
 # modulify
 
+**Topics:** `express` · `mern-packages` · `merndev` · `modules` · `modulify` · `nodejs` · `npm-pm` · `observability` · `router` · `structure` · `typescript`
+
 **Automatic Express modularizer** — load feature routers from disk with a predictable naming convention so services, controllers, and routes stay grouped as the codebase grows.
 
 ## Install

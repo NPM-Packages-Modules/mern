@@ -1,5 +1,7 @@
 # workflowmesh
 
+**Topics:** `async` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `orchestration` · `pipeline` · `retry` · `rollback` · `typescript` · `workflow` · `workflowmesh`
+
 **Smart async workflow engine** for Node.js: chain business steps with **retries**, simple **backoff**, and optional **rollback** so nested `try/catch` trees do not swallow your architecture.
 
 ## Install

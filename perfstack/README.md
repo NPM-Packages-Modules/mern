@@ -1,5 +1,7 @@
 # perfstack
 
+**Topics:** `dashboard` · `express` · `memory` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `performance` · `perfstack` · `profiling` · `tracing` · `typescript`
+
 Lightweight fullstack performance profiler for Node.js. One package gives you HTTP latency histograms, slow-query tracking (Mongoose), memory snapshots, async-context tracing, and a built-in dashboard endpoint — no agents, no SaaS, no dependencies.
 
 ## Install

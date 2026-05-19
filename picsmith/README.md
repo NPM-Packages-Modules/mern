@@ -1,5 +1,7 @@
 # picsmith
 
+**Topics:** `avif` · `cdn` · `express` · `image` · `mern-packages` · `merndev` · `middleware` · `nodejs` · `npm-pm` · `observability` · `optimization` · `picsmith` · `resize` · `sharp` · `thumbnail` · `typescript` · `webp`
+
 [![npm version](https://img.shields.io/npm/v/picsmith.svg)](https://www.npmjs.com/package/picsmith)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/picsmith)](https://bundlephobia.com/package/picsmith)
 [![license](https://img.shields.io/npm/l/picsmith.svg)](./LICENSE)

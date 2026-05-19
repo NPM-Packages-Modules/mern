@@ -1,5 +1,7 @@
 # reactstatex
 
+**Topics:** `express` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `reactstatex` · `typescript`
+
 Auto-generate React state management from APIs.
 
 ## Features

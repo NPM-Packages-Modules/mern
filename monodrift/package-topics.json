@@ -1,0 +1,22 @@
+{
+  "topics": [
+    "cli",
+    "dependencies",
+    "dependency",
+    "drift",
+    "mern-packages",
+    "merndev",
+    "monodrift",
+    "monorepo",
+    "nodejs",
+    "npm",
+    "npm-pm",
+    "observability",
+    "pnpm",
+    "typescript",
+    "version",
+    "workspace",
+    "workspaces",
+    "yarn"
+  ]
+}

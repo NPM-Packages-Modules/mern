@@ -1,5 +1,7 @@
 # responsa
 
+**Topics:** `api` · `envelope` · `error` · `express` · `mern-packages` · `merndev` · `middleware` · `nodejs` · `npm-pm` · `observability` · `pagination` · `responsa` · `response` · `standard` · `trace` · `typescript`
+
 Standardize every API response your Express app sends — typed envelopes, paginated lists, structured errors, and a per-request trace ID — in one tiny middleware.
 
 ## Why

@@ -1,5 +1,7 @@
 # cacheflow
 
+**Topics:** `cache` · `cacheflow` · `invalidation` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `redis` · `typescript`
+
 **Auto cache invalidation engine** — declare reverse dependencies between **cache tags** and **data keys**; when models change, you receive the exact tags to purge (Redis, CDN, in-memory, etc.).
 
 ## Install

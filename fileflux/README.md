@@ -1,5 +1,7 @@
 # fileflux
 
+**Topics:** `express` · `fastify` · `file` · `fileflux` · `hono` · `mern-packages` · `merndev` · `multer` · `multipart` · `next` · `nextjs` · `nodejs` · `npm-pm` · `observability` · `r2` · `s3` · `typescript` · `upload`
+
 [![npm version](https://img.shields.io/npm/v/fileflux.svg)](https://www.npmjs.com/package/fileflux)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/fileflux)](https://bundlephobia.com/package/fileflux)
 [![license](https://img.shields.io/npm/l/fileflux.svg)](./LICENSE)

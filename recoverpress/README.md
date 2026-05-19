@@ -1,5 +1,7 @@
 # recoverpress
 
+**Topics:** `errors` · `express` · `mern-packages` · `merndev` · `middleware` · `nodejs` · `npm-pm` · `observability` · `recoverpress` · `resilience` · `retry` · `typescript`
+
 **Express auto error recovery** — classify failures, return **degraded** JSON payloads for known outages, and **`withRetry`** wrapper helpers for transient I/O faults.
 
 ## Install

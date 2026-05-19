@@ -1,5 +1,7 @@
 # mcp-bootstrap
 
+**Topics:** `anthropic` · `claude` · `cli` · `mcp` · `mcp-bootstrap` · `mern-packages` · `merndev` · `model-context-protocol` · `nodejs` · `npm-pm` · `observability` · `scaffold` · `scaffolder` · `typescript`
+
 [![npm version](https://img.shields.io/npm/v/mcp-bootstrap.svg)](https://www.npmjs.com/package/mcp-bootstrap)
 [![license](https://img.shields.io/npm/l/mcp-bootstrap.svg)](./LICENSE)
 [![TypeScript](https://img.shields.io/badge/types-TypeScript-blue.svg)](https://www.typescriptlang.org/)

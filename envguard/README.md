@@ -1,5 +1,7 @@
 # envguard
 
+**Topics:** `ci` · `cli` · `dotenv` · `env` · `envguard` · `environment` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `schema` · `secrets` · `typescript` · `validation`
+
 Production-safe environment validation for Node.js. Define a schema once, get fully-typed env vars, CI-friendly checks, and a CLI that fails the build before a missing secret reaches production.
 
 ## Why

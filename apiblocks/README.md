@@ -1,5 +1,7 @@
 # apiblocks
 
+**Topics:** `api` · `apiblocks` · `composition` · `express` · `mern-packages` · `merndev` · `middleware` · `nodejs` · `npm-pm` · `observability` · `rest` · `typescript`
+
 **Smart API composition** — plug pagination, search, and your own **blocks** into Express as one ordered middleware chain plus optional `setup` hooks.
 
 ## Install

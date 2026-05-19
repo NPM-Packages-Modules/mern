@@ -1,5 +1,7 @@
 # stacksense
 
+**Topics:** `debugging` · `diagnostic` · `error` · `errors` · `express` · `fingerprint` · `mern-packages` · `merndev` · `middleware` · `nodejs` · `npm-pm` · `observability` · `stack-trace` · `stacksense` · `typescript`
+
 Smart Express error intelligence. Turns ugly backend crashes into readable, fingerprinted, grouped diagnostic reports — with hints and suggested fixes for the most common Node/Express/Mongo failures.
 
 ## Why

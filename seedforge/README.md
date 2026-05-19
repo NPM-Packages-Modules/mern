@@ -1,5 +1,7 @@
 # seedforge
 
+**Topics:** `cli` · `database` · `faker` · `fixtures` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `seed` · `seedforge` · `seeding` · `testing` · `typescript`
+
 **Smart database seeder** — register ordered async seeds and replay them with a **deterministic PRNG** so CI and laptops see the same pseudo-random fixtures.
 
 ## Install

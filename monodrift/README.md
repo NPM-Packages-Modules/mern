@@ -1,5 +1,7 @@
 # monodrift
 
+**Topics:** `cli` · `dependencies` · `dependency` · `drift` · `mern-packages` · `merndev` · `monodrift` · `monorepo` · `nodejs` · `npm` · `npm-pm` · `observability` · `pnpm` · `typescript` · `version` · `workspace` · `workspaces` · `yarn`
+
 [![npm version](https://img.shields.io/npm/v/monodrift.svg)](https://www.npmjs.com/package/monodrift)
 [![license](https://img.shields.io/npm/l/monodrift.svg)](./LICENSE)
 [![TypeScript](https://img.shields.io/badge/types-TypeScript-blue.svg)](https://www.typescriptlang.org/)

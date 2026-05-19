@@ -1,0 +1,19 @@
+{
+  "topics": [
+    "index",
+    "mern",
+    "mern-packages",
+    "merndev",
+    "mongodb",
+    "mongoose",
+    "monguard",
+    "n+1",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "performance",
+    "profiler",
+    "query",
+    "typescript"
+  ]
+}

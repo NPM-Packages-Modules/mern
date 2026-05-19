@@ -1,5 +1,7 @@
 # monguard
 
+**Topics:** `index` · `mern` · `mern-packages` · `merndev` · `mongodb` · `mongoose` · `monguard` · `n+1` · `nodejs` · `npm-pm` · `observability` · `performance` · `profiler` · `query` · `typescript`
+
 Runtime MongoDB query intelligence for **Mongoose**. Drop in one plugin and `monguard` analyzes every query your app runs — slow queries, missing indexes, N+1 hot-paths, duplicate fetches, aggregation pipelines that sort before they match, and more — with terminal warnings and a programmatic stats API.
 
 ## Why

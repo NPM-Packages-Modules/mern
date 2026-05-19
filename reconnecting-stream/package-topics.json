@@ -1,0 +1,18 @@
+{
+  "topics": [
+    "backoff",
+    "eventsource",
+    "heartbeat",
+    "mern-packages",
+    "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "reconnect",
+    "reconnecting-stream",
+    "sse",
+    "stream",
+    "typescript",
+    "websocket"
+  ]
+}

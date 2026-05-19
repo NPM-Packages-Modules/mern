@@ -1,5 +1,7 @@
 # jobforge
 
+**Topics:** `cron` · `jobforge` · `jobs` · `mern` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `queue` · `retry` · `typescript` · `worker`
+
 Small **background job** helper for Node: **retries**, **backoff**, **delay**, **fixed intervals**, and a **`monitoring()`** snapshot so you can build your own dashboard later.
 
 ```ts

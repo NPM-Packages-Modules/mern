@@ -1,5 +1,7 @@
 # chainsentry
 
+**Topics:** `audit` · `chainsentry` · `cli` · `mern-packages` · `merndev` · `nodejs` · `npm` · `npm-pm` · `observability` · `postinstall` · `scanner` · `security` · `supply-chain` · `typescript` · `typosquat`
+
 [![npm version](https://img.shields.io/npm/v/chainsentry.svg)](https://www.npmjs.com/package/chainsentry)
 [![license](https://img.shields.io/npm/l/chainsentry.svg)](./LICENSE)
 [![TypeScript](https://img.shields.io/badge/types-TypeScript-blue.svg)](https://www.typescriptlang.org/)

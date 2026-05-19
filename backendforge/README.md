@@ -1,5 +1,7 @@
 # backendforge
 
+**Topics:** `backend` · `backendforge` · `cli` · `express` · `generator` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `scaffold` · `typescript`
+
 **Backend automation CLI** — generate opinionated **Express module** folders (`router` + `service` stubs) so new resources stay uniform.
 
 ## Install

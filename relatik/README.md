@@ -1,5 +1,7 @@
 # relatik
 
+**Topics:** `crud` · `express` · `mern-packages` · `merndev` · `mongodb` · `mongoose` · `nodejs` · `npm-pm` · `observability` · `pagination` · `relatik` · `relationships` · `rest` · `schema` · `typescript`
+
 **Auto CRUD relationship engine** for Express and Mongo-style models.
 
 Generate production-oriented REST routers from a small adapter: **relationship scoping** (nested resources), **pagination**, **filter & search** query parsing, **`populate` hints**, **soft deletes**, and optional **Zod** validation — without hand-writing the same controllers again.

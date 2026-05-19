@@ -1,5 +1,7 @@
 # validora
 
+**Topics:** `api` · `express` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `schema` · `typescript` · `validation` · `validora` · `zod`
+
 **validora** is thin **Express middleware** around **Zod** for **`body`** and **`query`** — re-exporting **`z`** for one import line in MERN apps.
 
 ```ts

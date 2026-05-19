@@ -1,5 +1,7 @@
 # formbridge
 
+**Topics:** `api` · `form` · `formbridge` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `react` · `schema` · `typescript` · `validation` · `zod`
+
 **Smart form-to-backend connector** — keep a single **Zod** schema for client forms and API bodies, and map validation errors to **field keys** both ways.
 
 ## Install

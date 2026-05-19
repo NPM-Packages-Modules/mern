@@ -1,5 +1,7 @@
 # reconnecting-stream
 
+**Topics:** `backoff` · `eventsource` · `heartbeat` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `reconnect` · `reconnecting-stream` · `sse` · `stream` · `typescript` · `websocket`
+
 [![npm version](https://img.shields.io/npm/v/reconnecting-stream.svg)](https://www.npmjs.com/package/reconnecting-stream)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/reconnecting-stream)](https://bundlephobia.com/package/reconnecting-stream)
 [![license](https://img.shields.io/npm/l/reconnecting-stream.svg)](./LICENSE)

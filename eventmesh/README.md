@@ -1,5 +1,7 @@
 # eventmesh
 
+**Topics:** `eventmesh` · `events` · `mern-packages` · `merndev` · `microservices` · `nodejs` · `npm-pm` · `observability` · `pubsub` · `typescript`
+
 **eventmesh** wraps Node’s **`EventEmitter`** with **typed publish/subscribe** helpers for MERN services that are not ready for Redis yet.
 
 ```ts

@@ -1,0 +1,20 @@
+{
+  "topics": [
+    "ai-gateway",
+    "anthropic",
+    "budget",
+    "cost",
+    "cost-limiter",
+    "llm",
+    "mern-packages",
+    "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "openai",
+    "rate-limit",
+    "rate-limiting",
+    "redis",
+    "typescript"
+  ]
+}

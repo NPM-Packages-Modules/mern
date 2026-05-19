@@ -1,5 +1,7 @@
 # archsense
 
+**Topics:** `architecture` · `archsense` · `audit` · `backend` · `circular-dependency` · `cli` · `lint` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `score` · `structure` · `typescript`
+
 Backend architecture intelligence for any Node/TypeScript codebase. Run one command and get an architecture score, a dependency graph, cycle detection, leaked-secret scanning, oversized-file alerts, missing-test detection, and concrete fix suggestions.
 
 ## Install

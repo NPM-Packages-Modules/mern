@@ -1,5 +1,7 @@
 # promptmesh
 
+**Topics:** `ab-test` · `ai` · `analytics` · `anthropic` · `cache` · `llm` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `openai` · `prompt` · `promptmesh` · `typescript` · `versioning`
+
 Production-grade prompt infrastructure for any AI app. Versioning, variable rendering, caching, A/B experiments, fallbacks, and built-in analytics — all in one tiny, provider-agnostic library.
 
 ## Why

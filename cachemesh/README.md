@@ -1,5 +1,7 @@
 # cachemesh
 
+**Topics:** `cache` · `cachemesh` · `express` · `mern` · `mern-packages` · `merndev` · `middleware` · `nodejs` · `npm-pm` · `observability` · `redis` · `typescript`
+
 Express caching middleware with **TTL**, **custom cache keys**, and **`invalidate()`**. Ships with an in-memory store; swap in Redis by implementing `CacheStore`.
 
 ```ts

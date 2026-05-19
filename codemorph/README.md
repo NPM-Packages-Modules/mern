@@ -1,5 +1,7 @@
 # codemorph
 
+**Topics:** `cli` · `codemorph` · `dedupe` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `refactor` · `static-analysis` · `typescript`
+
 **AI-adjacent refactor assistant CLI** — first-line defense against copy-paste rot: **`analyze`** walks your tree, normalizes whitespace, and reports files with identical text hashes so you can merge or extract shared modules deliberately.
 
 ## Install
