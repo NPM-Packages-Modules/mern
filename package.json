@@ -1,7 +1,7 @@
 {
   "name": "@mr-aftab-ahmad-khan/mern-monorepo",
   "private": true,
-  "description": "MERN npm monorepo — Express, MongoDB, and Node.js packages (@mr-aftab-ahmad-khan/*).",
+  "description": "MERN npm monorepo \u2014 Express, MongoDB, and Node.js packages (@mr-aftab-ahmad-khan/*).",
   "license": "MIT",
   "engines": {
     "node": ">=18"
@@ -103,6 +103,10 @@
     "workflowmesh",
     "wsmesh"
   ],
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2"
+  },
   "scripts": {
     "build": "npm run build --workspaces --if-present",
     "test": "npm run test --workspaces --if-present",

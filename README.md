@@ -1,16 +1,212 @@
 # MERN packages
 
-## All packages & topics
+<!-- packages-index:start -->
+## Packages in this repo (95)
 
-See **[PACKAGES.md](./PACKAGES.md)** for all **95** packages with per-package topics.
+Each line below is an **inner package** (subfolder). Click a name to browse its code on GitHub.
 
-Canonical repo: **[github.com/NPM-Packages-Modules/mern](https://github.com/NPM-Packages-Modules/mern)**
-
-Each subfolder is one npm package (`@mr-aftab-ahmad-khan/*`).
-
-```bash
-npm install
-npm run build --workspace=monguard
+```text
+├── [adminforge/](./adminforge/)
+├── [aggra/](./aggra/)
+├── [apiblocks/](./apiblocks/)
+├── [apilifecycle/](./apilifecycle/)
+├── [archsense/](./archsense/)
+├── [backendforge/](./backendforge/)
+├── [cacheflow/](./cacheflow/)
+├── [cacheforge/](./cacheforge/)
+├── [cachemesh/](./cachemesh/)
+├── [chainsentry/](./chainsentry/)
+├── [codemorph/](./codemorph/)
+├── [configforge/](./configforge/)
+├── [cost-limiter/](./cost-limiter/)
+├── [cronmesh/](./cronmesh/)
+├── [ctrlflow/](./ctrlflow/)
+├── [dbflow/](./dbflow/)
+├── [dbmesh/](./dbmesh/)
+├── [deployguard/](./deployguard/)
+├── [docstack/](./docstack/)
+├── [duoapi/](./duoapi/)
+├── [envguard/](./envguard/)
+├── [envrunes/](./envrunes/)
+├── [eventforge/](./eventforge/)
+├── [eventmesh/](./eventmesh/)
+├── [fileflux/](./fileflux/)
+├── [flagmesh/](./flagmesh/)
+├── [formbridge/](./formbridge/)
+├── [fusionstack/](./fusionstack/)
+├── [graphstack/](./graphstack/)
+├── [guardpress/](./guardpress/)
+├── [heapguard/](./heapguard/)
+├── [hookmesh/](./hookmesh/)
+├── [hookretry/](./hookretry/)
+├── [injectflow/](./injectflow/)
+├── [jobforge/](./jobforge/)
+├── [lesscode/](./lesscode/)
+├── [llmtoken/](./llmtoken/)
+├── [lockmesh/](./lockmesh/)
+├── [logicforge/](./logicforge/)
+├── [mcp-bootstrap/](./mcp-bootstrap/)
+├── [metricpress/](./metricpress/)
+├── [midflow/](./midflow/)
+├── [mockpress/](./mockpress/)
+├── [modelsync/](./modelsync/)
+├── [modstack/](./modstack/)
+├── [modulify/](./modulify/)
+├── [mongoose-advanced-plugin/](./mongoose-advanced-plugin/)
+├── [monguard/](./monguard/)
+├── [monodrift/](./monodrift/)
+├── [pageforge/](./pageforge/)
+├── [perfstack/](./perfstack/)
+├── [picsmith/](./picsmith/)
+├── [pipeguard/](./pipeguard/)
+├── [plugstack/](./plugstack/)
+├── [policyflow/](./policyflow/)
+├── [promptmesh/](./promptmesh/)
+├── [promptver/](./promptver/)
+├── [queryforge/](./queryforge/)
+├── [queueflow/](./queueflow/)
+├── [ratemesh/](./ratemesh/)
+├── [reactstatex/](./reactstatex/)
+├── [reconnecting-stream/](./reconnecting-stream/)
+├── [recoverpress/](./recoverpress/)
+├── [relaforge/](./relaforge/)
+├── [relatik/](./relatik/)
+├── [renderguard/](./renderguard/)
+├── [replaystack/](./replaystack/)
+├── [responsa/](./responsa/)
+├── [retrystack/](./retrystack/)
+├── [routeblocks/](./routeblocks/)
+├── [routeboost/](./routeboost/)
+├── [routecheck/](./routecheck/)
+├── [rulemesh/](./rulemesh/)
+├── [schemagen/](./schemagen/)
+├── [schemaui/](./schemaui/)
+├── [sdkforge/](./sdkforge/)
+├── [sdkpress/](./sdkpress/)
+├── [searchforge/](./searchforge/)
+├── [seedforge/](./seedforge/)
+├── [serviceforge/](./serviceforge/)
+├── [shieldpress/](./shieldpress/)
+├── [stacksense/](./stacksense/)
+├── [statemesh/](./statemesh/)
+├── [syncora/](./syncora/)
+├── [tenantforge/](./tenantforge/)
+├── [testforge/](./testforge/)
+├── [transactly/](./transactly/)
+├── [typepress/](./typepress/)
+├── [uploadflow/](./uploadflow/)
+├── [uploadmesh/](./uploadmesh/)
+├── [validora/](./validora/)
+├── [versionpress/](./versionpress/)
+├── [workerforge/](./workerforge/)
+├── [workflowmesh/](./workflowmesh/)
+├── [wsmesh/](./wsmesh/)
 ```
 
-Topics: `merndev`, `nodejs`, `typescript`, `mongodb`, `express`, `mern-packages`, `npm-pm`.
+| Package | Open | Topics | Description |
+| --- | --- | --- | --- |
+| [adminforge](./adminforge/) | [README](./adminforge/README.md) · [src](./adminforge/src/) | `admin` · `adminforge` · `crud` · `dashboard` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · _+3_ | adminforge — Admin panel generator core: JSON manifest of models, fields, and routes for CRUD UIs (R |
+| [aggra](./aggra/) | [README](./aggra/README.md) · [src](./aggra/src/) | `aggra` · `aggregation` · `mern-packages` · `merndev` · `mongodb` · `mongoose` · `nodejs` · `npm-pm` · _+4_ | aggra — Mongo aggregation builder: chain $match, $lookup, $group, and friends into typed stage array |
+| [apiblocks](./apiblocks/) | [README](./apiblocks/README.md) · [src](./apiblocks/src/) | `api` · `apiblocks` · `composition` · `express` · `mern-packages` · `merndev` · `middleware` · `nodejs` · _+4_ | apiblocks — Smart API composition: reusable Express blocks (pagination, search, etc.) merge into one |
+| [apilifecycle](./apilifecycle/) | [README](./apilifecycle/README.md) · [src](./apilifecycle/src/) | `api` · `apilifecycle` · `deprecation` · `express` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · _+3_ | apilifecycle — Deprecation and version gate middleware for Express. |
+| [archsense](./archsense/) | [README](./archsense/README.md) · [src](./archsense/src/) | `architecture` · `archsense` · `audit` · `backend` · `circular-dependency` · `cli` · `lint` · `mern-packages` · _+7_ | Backend architecture intelligence CLI: detects circular dependencies, oversized modules, structural  |
+| [backendforge](./backendforge/) | [README](./backendforge/README.md) · [src](./backendforge/src/) | `backend` · `backendforge` · `cli` · `express` · `generator` · `mern-packages` · `merndev` · `nodejs` · _+4_ | backendforge — Backend automation CLI: scaffold Express modules (router + service stub) so MERN APIs |
+| [cacheflow](./cacheflow/) | [README](./cacheflow/README.md) · [src](./cacheflow/src/) | `cache` · `cacheflow` · `invalidation` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · _+3_ | cacheflow — Auto cache invalidation graph: track tag ↔ dependency edges (e.g. Mongo doc ids) and fan |
+| [cacheforge](./cacheforge/) | [README](./cacheforge/README.md) · [src](./cacheforge/src/) | `cache` · `cacheforge` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `redis` · _+1_ | cacheforge — Cache entry envelope with TTL + tag list for invalidation. |
+| [cachemesh](./cachemesh/) | [README](./cachemesh/README.md) · [src](./cachemesh/src/) | `cache` · `cachemesh` · `express` · `mern` · `mern-packages` · `merndev` · `middleware` · `nodejs` · _+4_ | Express response caching with TTL, key rules, invalidation, Redis-ready stores. |
+| [chainsentry](./chainsentry/) | [README](./chainsentry/README.md) · [src](./chainsentry/src/) | `audit` · `chainsentry` · `cli` · `mern-packages` · `merndev` · `nodejs` · `npm` · `npm-pm` · _+7_ | Supply-chain scanner that audits npm dependencies for typosquats, malicious install scripts, license |
+| [codemorph](./codemorph/) | [README](./codemorph/README.md) · [src](./codemorph/src/) | `cli` · `codemorph` · `dedupe` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+3_ | codemorph — Refactor assistant CLI: scan projects for byte-normalized duplicate sources to spot copy |
+| [configforge](./configforge/) | [README](./configforge/README.md) · [src](./configforge/src/) | `config` · `configforge` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `schema` · _+2_ | configforge — Merge config objects then validate with Zod. |
+| [cost-limiter](./cost-limiter/) | [README](./cost-limiter/README.md) · [src](./cost-limiter/src/) | `ai-gateway` · `anthropic` · `budget` · `cost` · `cost-limiter` · `llm` · `mern-packages` · `merndev` · _+8_ | LLM cost limiter middleware with per-user, per-key, and per-model budgets, token accounting, and har |
+| [cronmesh](./cronmesh/) | [README](./cronmesh/README.md) · [src](./cronmesh/src/) | `cron` · `cronmesh` · `jobs` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+2_ | cronmesh — Named cron-style task registry (daily/hourly/manual) for scheduler glue. |
+| [ctrlflow](./ctrlflow/) | [README](./ctrlflow/README.md) · [src](./ctrlflow/src/) | `controller` · `ctrlflow` · `express` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+1_ | ctrlflow — Express controller composer: stack middleware then mount handlers. |
+| [dbflow](./dbflow/) | [README](./dbflow/README.md) · [src](./dbflow/src/) | `dal` · `dbflow` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · _+2_ | dbflow — Repository façade interface for CRUD-style data access. |
+| [dbmesh](./dbmesh/) | [README](./dbmesh/README.md) · [src](./dbmesh/src/) | `database` · `dbmesh` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · _+3_ | dbmesh — Multi-database façade: register named collection adapters behind one mesh API. |
+| [deployguard](./deployguard/) | [README](./deployguard/README.md) · [src](./deployguard/src/) | `ci` · `cli` · `deploy` · `deployguard` · `devops` · `docker` · `mern` · `mern-packages` · _+8_ | Pre-deploy validation: env templates, Docker checks, Mongo ping, dependency hints. |
+| [docstack](./docstack/) | [README](./docstack/README.md) · [src](./docstack/src/) | `cli` · `docs` · `docstack` · `markdown` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · _+2_ | docstack — CLI markdown stub from CWD package.json (`npx docstack generate`). |
+| [duoapi](./duoapi/) | [README](./duoapi/README.md) · [src](./duoapi/src/) | `api` · `duoapi` · `graphql` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+3_ | duoapi — Dual API engine: one Zod resource → GraphQL SDL stub + REST base path metadata. |
+| [envguard](./envguard/) | [README](./envguard/README.md) · [src](./envguard/src/) | `ci` · `cli` · `dotenv` · `env` · `envguard` · `environment` · `mern-packages` · `merndev` · _+7_ | Production-safe environment validation system with schema typing, CI checks, and a CLI for missing/i |
+| [envrunes](./envrunes/) | [README](./envrunes/README.md) · [src](./envrunes/src/) | `astro` · `cli` · `config` · `dotenv` · `env` · `environment` · `envrunes` · `mern-packages` · _+12_ | Type-safe environment variable loader with schema validation, defaults, transforms, and zero-runtime |
+| [eventforge](./eventforge/) | [README](./eventforge/README.md) · [src](./eventforge/src/) | `eventforge` · `events` · `express` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+1_ | eventforge — Tiny typed event bus for Express apps. |
+| [eventmesh](./eventmesh/) | [README](./eventmesh/README.md) · [src](./eventmesh/src/) | `eventmesh` · `events` · `mern-packages` · `merndev` · `microservices` · `nodejs` · `npm-pm` · `observability` · _+2_ | Lightweight in-process pub/sub bus with typed helpers — MERN-friendly stepping stone before Redis st |
+| [fileflux](./fileflux/) | [README](./fileflux/README.md) · [src](./fileflux/src/) | `express` · `fastify` · `file` · `fileflux` · `hono` · `mern-packages` · `merndev` · `multer` · _+10_ | File upload handler with resumable multipart uploads, signed URLs, virus scanning hooks, and pluggab |
+| [flagmesh](./flagmesh/) | [README](./flagmesh/README.md) · [src](./flagmesh/src/) | `feature-flags` · `flagmesh` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `rollout` · _+2_ | In-process feature flags with env defaults, forced booleans, and percent rollouts by stable user has |
+| [formbridge](./formbridge/) | [README](./formbridge/README.md) · [src](./formbridge/src/) | `api` · `form` · `formbridge` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+5_ | formbridge — Form-to-backend connector: share Zod schemas between UI and API, normalize field errors |
+| [fusionstack](./fusionstack/) | [README](./fusionstack/README.md) · [src](./fusionstack/src/) | `aggregation` · `api` · `bff` · `fusionstack` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · _+2_ | fusionstack — Parallel Promise.allSettled helper to merge multiple service fetches safely. |
+| [graphstack](./graphstack/) | [README](./graphstack/README.md) · [src](./graphstack/src/) | `cli` · `dependencies` · `graph` · `graphstack` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · _+2_ | graphstack — CLI to list sorted npm dependencies from package.json (npx graphstack analyze). |
+| [guardpress](./guardpress/) | [README](./guardpress/README.md) · [src](./guardpress/src/) | `auth` · `express` · `guardpress` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+1_ | guardpress — Route guard composer for Express (role + custom predicates). |
+| [heapguard](./heapguard/) | [README](./heapguard/README.md) · [src](./heapguard/src/) | `heap` · `heapguard` · `memory` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+2_ | Lightweight Node heap growth sampling with v8 stats and simple leak-suspect heuristics. |
+| [hookmesh](./hookmesh/) | [README](./hookmesh/README.md) · [src](./hookmesh/src/) | `express` · `hmac` · `hookmesh` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+3_ | Webhook helpers: HMAC-SHA256 verification, idempotency keys, and simple in-memory delivery records. |
+| [hookretry](./hookretry/) | [README](./hookretry/README.md) · [src](./hookretry/src/) | `hookretry` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `retry` · `typescript` · _+1_ | hookretry — Webhook delivery attempt log + backoff helper. |
+| [injectflow](./injectflow/) | [README](./injectflow/README.md) · [src](./injectflow/src/) | `container` · `di` · `express` · `injectflow` · `ioc` · `mern-packages` · `merndev` · `nodejs` · _+3_ | injectflow — Lightweight dependency injection for Node/Express: register factories, singleton scope, |
+| [jobforge](./jobforge/) | [README](./jobforge/README.md) · [src](./jobforge/src/) | `cron` · `jobforge` · `jobs` · `mern` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · _+5_ | Background jobs with retries, backoff, schedules, and monitoring hooks for Node. |
+| [lesscode](./lesscode/) | [README](./lesscode/README.md) · [src](./lesscode/src/) | `cli` · `express` · `lesscode` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+1_ | lesscode — Boilerplate CLI: scan files for Express-style `.get/.use` usage. |
+| [llmtoken](./llmtoken/) | [README](./llmtoken/README.md) · [src](./llmtoken/src/) | `anthropic` · `deepseek` · `gemini` · `groq` · `llm` · `llmtoken` · `mern-packages` · `merndev` · _+9_ | Universal LLM stream parser that normalizes SSE chunks from OpenAI, Anthropic, Google, and other pro |
+| [lockmesh](./lockmesh/) | [README](./lockmesh/README.md) · [src](./lockmesh/src/) | `concurrency` · `lock` · `lockmesh` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+1_ | lockmesh — In-memory lock with TTL; interface-friendly for Redis backends. |
+| [logicforge](./logicforge/) | [README](./logicforge/README.md) · [src](./logicforge/src/) | `business-logic` · `logicforge` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `rules` · _+2_ | logicforge — Tiny numeric comparison rules from strings (e.g. order > 100) plus function predicates. |
+| [mcp-bootstrap](./mcp-bootstrap/) | [README](./mcp-bootstrap/README.md) · [src](./mcp-bootstrap/src/) | `anthropic` · `claude` · `cli` · `mcp` · `mcp-bootstrap` · `mern-packages` · `merndev` · `model-context-protocol` · _+6_ | Interactive scaffolder for Model Context Protocol servers with TypeScript templates, transport prese |
+| [metricpress](./metricpress/) | [README](./metricpress/README.md) · [src](./metricpress/src/) | `express` · `mern-packages` · `merndev` · `metricpress` · `metrics` · `nodejs` · `npm-pm` · `observability` · _+1_ | metricpress — Express middleware collecting per-route timings + status counts. |
+| [midflow](./midflow/) | [README](./midflow/README.md) · [src](./midflow/src/) | `express` · `mern-packages` · `merndev` · `middleware` · `midflow` · `nodejs` · `npm-pm` · `observability` · _+1_ | midflow — Compose Express middleware arrays into one handler. |
+| [mockpress](./mockpress/) | [README](./mockpress/README.md) · [src](./mockpress/src/) | `api` · `express` · `mern-packages` · `merndev` · `mock` · `mockpress` · `nodejs` · `npm-pm` · _+3_ | Spin up mock Express servers from an existing app’s route table — latency and fake JSON for frontend |
+| [modelsync](./modelsync/) | [README](./modelsync/README.md) · [src](./modelsync/src/) | `express` · `mern-packages` · `merndev` · `modelsync` · `mongodb` · `nodejs` · `npm-pm` · `observability` · _+2_ | Keep Mongoose models, TypeScript types, and validation schemas synchronized automatically. |
+| [modstack](./modstack/) | [README](./modstack/README.md) · [src](./modstack/src/) | `dynamic-import` · `mern-packages` · `merndev` · `modstack` · `nodejs` · `npm-pm` · `observability` · `plugins` · _+1_ | modstack — Load `*.plugin.js` modules from a directory via dynamic import. |
+| [modulify](./modulify/) | [README](./modulify/README.md) · [src](./modulify/src/) | `express` · `mern-packages` · `merndev` · `modules` · `modulify` · `nodejs` · `npm-pm` · `observability` · _+3_ | modulify — Express modularizer: auto-load route modules from a folder, mount routers, and keep large |
+| [mongoose-advanced-plugin](./mongoose-advanced-plugin/) | [README](./mongoose-advanced-plugin/README.md) · [src](./mongoose-advanced-plugin/src/) | `mern` · `mern-packages` · `merndev` · `mongodb` · `mongoose` · `mongoose-advanced-plugin` · `nodejs` · `npm-pm` · _+5_ | Mongoose plugin: soft delete, pagination, actor tracking, embedded audit trail (auditLog), optimisti |
+| [monguard](./monguard/) | [README](./monguard/README.md) · [src](./monguard/src/) | `index` · `mern` · `mern-packages` · `merndev` · `mongodb` · `mongoose` · `monguard` · `n+1` · _+7_ | Runtime MongoDB query intelligence for Mongoose. Detects slow queries, missing indexes, N+1, duplica |
+| [monodrift](./monodrift/) | [README](./monodrift/README.md) · [src](./monodrift/src/) | `cli` · `dependencies` · `dependency` · `drift` · `mern-packages` · `merndev` · `monodrift` · `monorepo` · _+10_ | Monorepo drift detector that flags version mismatches, conflicting peer ranges, and out-of-sync conf |
+| [pageforge](./pageforge/) | [README](./pageforge/README.md) · [src](./pageforge/src/) | `api` · `cursor` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `pageforge` · _+2_ | pageforge — Cursor + offset pagination helpers for APIs. |
+| [perfstack](./perfstack/) | [README](./perfstack/README.md) · [src](./perfstack/src/) | `dashboard` · `express` · `memory` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · _+6_ | Fullstack performance profiler: HTTP latency, slow MongoDB queries, memory snapshots, span tracing,  |
+| [picsmith](./picsmith/) | [README](./picsmith/README.md) · [src](./picsmith/src/) | `avif` · `cdn` · `express` · `image` · `mern-packages` · `merndev` · `middleware` · `nodejs` · _+9_ | Image optimization pipeline with on-the-fly resizing, AVIF and WebP conversion, smart cropping, and  |
+| [pipeguard](./pipeguard/) | [README](./pipeguard/README.md) · [src](./pipeguard/src/) | `express` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `pipeguard` · `schema` · _+3_ | pipeguard — Zod body validation as Express middleware. |
+| [plugstack](./plugstack/) | [README](./plugstack/README.md) · [src](./plugstack/src/) | `architecture` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `plugins` · `plugstack` · _+1_ | plugstack — Plugin registry with async init hooks. |
+| [policyflow](./policyflow/) | [README](./policyflow/README.md) · [src](./policyflow/src/) | `authorization` · `express` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `permissions` · _+4_ | policyflow — Auto permission / RBAC helper: role hierarchy, route guards, and simple action strings  |
+| [promptmesh](./promptmesh/) | [README](./promptmesh/README.md) · [src](./promptmesh/src/) | `ab-test` · `ai` · `analytics` · `anthropic` · `cache` · `llm` · `mern-packages` · `merndev` · _+8_ | Production-grade prompt infrastructure: versioning, variables, caching, A/B testing, fallbacks, anal |
+| [promptver](./promptver/) | [README](./promptver/README.md) · [src](./promptver/src/) | `a-b-testing` · `ab-testing` · `ai` · `anthropic` · `cli` · `llm` · `mern-packages` · `merndev` · _+9_ | AI prompt versioning toolkit with diffing, semantic version tags, evaluation runs, and rollbacks for |
+| [queryforge](./queryforge/) | [README](./queryforge/README.md) · [src](./queryforge/src/) | `dashboard` · `filter` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · _+4_ | queryforge — Dynamic query builder: turn HTTP query strings into Mongo-style filters, sorts, and pag |
+| [queueflow](./queueflow/) | [README](./queueflow/README.md) · [src](./queueflow/src/) | `jobs` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `queue` · `queueflow` · _+2_ | queueflow — Map queue channel names to async handlers with retries. |
+| [ratemesh](./ratemesh/) | [README](./ratemesh/README.md) · [src](./ratemesh/src/) | `express` · `mern` · `mern-packages` · `merndev` · `middleware` · `nodejs` · `npm-pm` · `observability` · _+4_ | Sliding-window rate limits, adaptive 4xx penalties, Redis-friendly client keys. |
+| [reactstatex](./reactstatex/) | [README](./reactstatex/README.md) · [src](./reactstatex/src/) | `express` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `reactstatex` · _+1_ | Auto-generate React state management from APIs. |
+| [reconnecting-stream](./reconnecting-stream/) | [README](./reconnecting-stream/README.md) · [src](./reconnecting-stream/src/) | `backoff` · `eventsource` · `heartbeat` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+6_ | Resilient SSE and WebSocket client with automatic reconnection, exponential backoff, heartbeat check |
+| [recoverpress](./recoverpress/) | [README](./recoverpress/README.md) · [src](./recoverpress/src/) | `errors` · `express` · `mern-packages` · `merndev` · `middleware` · `nodejs` · `npm-pm` · `observability` · _+4_ | recoverpress — Express auto error recovery: classify failures, graceful degradation responses, and a |
+| [relaforge](./relaforge/) | [README](./relaforge/README.md) · [src](./relaforge/src/) | `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `populate` · `relaforge` · _+2_ | relaforge — Mongo populate path helper with cycle detection and nesting utilities. |
+| [relatik](./relatik/) | [README](./relatik/README.md) · [src](./relatik/src/) | `crud` · `express` · `mern-packages` · `merndev` · `mongodb` · `mongoose` · `nodejs` · `npm-pm` · _+7_ | relatik — Auto CRUD relationship engine: Express routers from Mongo-style adapters with pagination,  |
+| [renderguard](./renderguard/) | [README](./renderguard/README.md) · [src](./renderguard/src/) | `mern` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `performance` · `profiler` · _+4_ | React render tracking, Profiler wrappers, and hotspots for expensive subtrees. |
+| [replaystack](./replaystack/) | [README](./replaystack/README.md) · [src](./replaystack/src/) | `cli` · `debug` · `http` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+3_ | Replay captured HTTP requests against a base URL — simple production-incident repro from JSON traces |
+| [responsa](./responsa/) | [README](./responsa/README.md) · [src](./responsa/src/) | `api` · `envelope` · `error` · `express` · `mern-packages` · `merndev` · `middleware` · `nodejs` · _+8_ | API response standardization middleware for Express — typed envelopes, paginated lists, structured e |
+| [retrystack](./retrystack/) | [README](./retrystack/README.md) · [src](./retrystack/src/) | `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `resilience` · `retry` · `retrystack` · _+1_ | retrystack — Exponential backoff retries with jitter for async calls. |
+| [routeblocks](./routeblocks/) | [README](./routeblocks/README.md) · [src](./routeblocks/src/) | `express` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `routeblocks` · `router` · _+1_ | routeblocks — Fluent Express router blocks (use/mount helpers). |
+| [routeboost](./routeboost/) | [README](./routeboost/README.md) · [src](./routeboost/src/) | `api` · `express` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `performance` · _+2_ | routeboost — Express perf hints middleware (cache/surrogate headers + payload guard stub). |
+| [routecheck](./routecheck/) | [README](./routecheck/README.md) · [src](./routecheck/src/) | `cli` · `express` · `mern` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+4_ | Express route discovery and starter API tests, CLI-first MERN workflow. |
+| [rulemesh](./rulemesh/) | [README](./rulemesh/README.md) · [src](./rulemesh/src/) | `automation` · `events` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `rulemesh` · _+3_ | rulemesh — Background automation rules: declarative when/event handlers with optional matchers, asyn |
+| [schemagen](./schemagen/) | [README](./schemagen/README.md) · [src](./schemagen/src/) | `dto` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `schema` · _+3_ | schemagen — Zod object → DTO interface string + field reflection for contracts. |
+| [schemaui](./schemaui/) | [README](./schemaui/README.md) · [src](./schemaui/src/) | `form` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `react` · `schema` · _+5_ | schemaui — Validation-to-UI bridge: render a minimal React form from a Zod object schema with shared |
+| [sdkforge](./sdkforge/) | [README](./sdkforge/README.md) · [src](./sdkforge/src/) | `cli` · `codegen` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `openapi` · _+3_ | Generate minimal TypeScript fetch clients from OpenAPI 3 path definitions — CI-friendly starter SDKs |
+| [sdkpress](./sdkpress/) | [README](./sdkpress/README.md) · [src](./sdkpress/src/) | `cli` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `openapi` · `sdk` · _+2_ | sdkpress — SDK generator CLI: typed fetch stubs from OpenAPI path keys (`npx sdkpress generate`). |
+| [searchforge](./searchforge/) | [README](./searchforge/README.md) · [src](./searchforge/src/) | `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `search` · `searchforge` · _+1_ | searchforge — Mongo $regex helpers + Atlas $text clause builder. |
+| [seedforge](./seedforge/) | [README](./seedforge/README.md) · [src](./seedforge/src/) | `cli` · `database` · `faker` · `fixtures` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · _+7_ | seedforge — Database seeding kit: deterministic PRNG, ordered seed registrations, and `npx seedforge |
+| [serviceforge](./serviceforge/) | [README](./serviceforge/README.md) · [src](./serviceforge/src/) | `architecture` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `service` · `serviceforge` · _+1_ | serviceforge — Service layer shell with before/after CRUD hooks. |
+| [shieldpress](./shieldpress/) | [README](./shieldpress/README.md) · [src](./shieldpress/src/) | `cli` · `express` · `mern` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+4_ | Express security static analysis: helmet gaps, injection smells, CORS and auth checks. |
+| [stacksense](./stacksense/) | [README](./stacksense/README.md) · [src](./stacksense/src/) | `debugging` · `diagnostic` · `error` · `errors` · `express` · `fingerprint` · `mern-packages` · `merndev` · _+7_ | Smart Express error intelligence: parses stack traces, fingerprints + groups crashes, attaches reque |
+| [statemesh](./statemesh/) | [README](./statemesh/README.md) · [src](./statemesh/src/) | `fsm` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `statemesh` · `typescript` · _+1_ | statemesh — Minimal finite state machine with transitions. |
+| [syncora](./syncora/) | [README](./syncora/README.md) · [src](./syncora/src/) | `mern` · `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `optimistic` · _+7_ | Realtime MERN sync engine. Subscribe to MongoDB collections from React with optimistic updates, auto |
+| [tenantforge](./tenantforge/) | [README](./tenantforge/README.md) · [src](./tenantforge/src/) | `express` · `mern` · `mern-packages` · `merndev` · `middleware` · `mongodb` · `multi-tenant` · `nodejs` · _+5_ | Tenant resolution from headers, scoped filters for Express and Mongo-style stacks. |
+| [testforge](./testforge/) | [README](./testforge/README.md) · [src](./testforge/src/) | `cli` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `testforge` · `testing` · _+2_ | testforge — CLI to emit a starter Vitest file (`npx testforge generate`). |
+| [transactly](./transactly/) | [README](./transactly/README.md) · [src](./transactly/src/) | `mern-packages` · `merndev` · `mongodb` · `nodejs` · `npm-pm` · `observability` · `retry` · `transactions` · _+2_ | transactly — Retry wrapper for transactional async work (Mongo session inside callback). |
+| [typepress](./typepress/) | [README](./typepress/README.md) · [src](./typepress/src/) | `api` · `client` · `express` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · _+8_ | Type-safe API framework for Express. Define routes once, get runtime validation, OpenAPI, TypeScript |
+| [uploadflow](./uploadflow/) | [README](./uploadflow/README.md) · [src](./uploadflow/src/) | `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `pipeline` · `typescript` · `upload` · _+1_ | uploadflow — Named upload pipeline steps. |
+| [uploadmesh](./uploadmesh/) | [README](./uploadmesh/README.md) · [src](./uploadmesh/src/) | `express` · `mern` · `mern-packages` · `merndev` · `multer` · `nodejs` · `npm-pm` · `observability` · _+5_ | Upload validation, multipart checks, signed URLs for S3-style MERN file flows. |
+| [validora](./validora/) | [README](./validora/README.md) · [src](./validora/src/) | `api` · `express` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `schema` · _+4_ | Zod-powered Express body/query validation middleware — one schema shape for APIs. |
+| [versionpress](./versionpress/) | [README](./versionpress/README.md) · [src](./versionpress/src/) | `api-versioning` · `express` · `mern-packages` · `merndev` · `middleware` · `nodejs` · `npm-pm` · `observability` · _+2_ | Express API version resolution from headers with deprecation helpers and optional path-prefix stripp |
+| [workerforge](./workerforge/) | [README](./workerforge/README.md) · [src](./workerforge/src/) | `jobs` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `typescript` · `worker` · _+1_ | workerforge — In-process worker registry and dispatcher by job name. |
+| [workflowmesh](./workflowmesh/) | [README](./workflowmesh/README.md) · [src](./workflowmesh/src/) | `async` · `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `orchestration` · `pipeline` · _+5_ | workflowmesh — Smart async workflow engine: chained steps, retries, backoff, and optional rollback f |
+| [wsmesh](./wsmesh/) | [README](./wsmesh/README.md) · [src](./wsmesh/src/) | `mern-packages` · `merndev` · `nodejs` · `npm-pm` · `observability` · `presence` · `realtime` · `redis` · _+4_ | wsmesh — WebSocket/realtime mesh: room registry, presence counters, reconnect-safe client ids, and c |
+
+<details>
+<summary>Full index file</summary>
+
+Same table in [PACKAGES.md](./PACKAGES.md) (for deep links and exports).
+
+</details>
+<!-- packages-index:end -->
+
+
