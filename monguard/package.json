@@ -1,0 +1,73 @@
+{
+  "name": "@mr-aftab-ahmad-khan/monguard",
+  "version": "0.1.3",
+  "description": "Runtime MongoDB query intelligence for Mongoose. Detects slow queries, missing indexes, N+1, duplicates, and aggregation bottlenecks with zero configuration.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "performance",
+    "query",
+    "index",
+    "n+1",
+    "profiler",
+    "observability",
+    "mern"
+  ],
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsup": "^8.0.0",
+    "typescript": "^5.4.0",
+    "vitest": "^1.4.0"
+  },
+  "peerDependencies": {
+    "mongoose": "^7.0.0 || ^8.0.0"
+  },
+  "peerDependenciesMeta": {
+    "mongoose": {
+      "optional": true
+    }
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "monguard"
+  },
+  "bugs": {
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
+  },
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/monguard",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "@mr-aftab-ahmad-khan/envguard",
+  "version": "0.1.3",
+  "description": "Production-safe environment validation system with schema typing, CI checks, and a CLI for missing/invalid secrets.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "bin": {
+    "envguard": "envguard.cjs"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "envguard.cjs",
+    "dist",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "env",
+    "environment",
+    "validation",
+    "schema",
+    "dotenv",
+    "secrets",
+    "ci",
+    "cli"
+  ],
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsup": "^8.0.0",
+    "typescript": "^5.4.0",
+    "vitest": "^1.4.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "envguard"
+  },
+  "bugs": {
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
+  },
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/envguard",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "@mr-aftab-ahmad-khan/relatik",
+  "version": "0.1.0",
+  "description": "relatik — Auto CRUD relationship engine: Express routers from Mongo-style adapters with pagination, filter/search parsing, population, soft deletes, and Zod validation.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "crud",
+    "express",
+    "mongodb",
+    "mongoose",
+    "relationships",
+    "rest",
+    "merndev",
+    "typescript",
+    "pagination"
+  ],
+  "peerDependencies": {
+    "express": "^4.0.0 || ^5.0.0",
+    "zod": "^3.23.0"
+  },
+  "peerDependenciesMeta": {
+    "zod": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.11.0",
+    "@types/supertest": "^6.0.2",
+    "express": "^4.19.2",
+    "supertest": "^7.0.0",
+    "tsup": "^8.0.0",
+    "typescript": "^5.4.0",
+    "vitest": "^1.4.0",
+    "zod": "^3.23.8"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "relatik"
+  },
+  "bugs": {
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
+  },
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/relatik",
+  "publishConfig": {
+    "access": "public"
+  }
+}

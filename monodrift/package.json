@@ -1,0 +1,72 @@
+{
+  "name": "monodrift",
+  "version": "0.1.1",
+  "description": "Monorepo drift detector that flags version mismatches, conflicting peer ranges, and out-of-sync configs across packages in pnpm, yarn, and npm workspaces.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "bin": {
+    "monodrift": "./dist/cli.cjs"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "monorepo",
+    "dependencies",
+    "drift",
+    "pnpm",
+    "yarn",
+    "npm",
+    "workspaces",
+    "dependency",
+    "workspace",
+    "version",
+    "cli"
+  ],
+  "dependencies": {
+    "commander": "^12.0.0",
+    "picocolors": "^1.0.0",
+    "yaml": "^2.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsup": "^8.0.0",
+    "typescript": "^5.4.0",
+    "vitest": "^1.4.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "monodrift"
+  },
+  "bugs": {
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
+  },
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/monodrift",
+  "publishConfig": {
+    "access": "public"
+  }
+}

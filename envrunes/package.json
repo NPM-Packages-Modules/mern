@@ -1,0 +1,88 @@
+{
+  "name": "envrunes",
+  "version": "0.1.1",
+  "description": "Type-safe environment variable loader with schema validation, defaults, transforms, and zero-runtime overhead for Node.js and TypeScript projects.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "bin": {
+    "envrunes": "./dist/cli.cjs"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    },
+    "./next": {
+      "types": "./dist/next.d.ts",
+      "import": "./dist/next.js",
+      "require": "./dist/next.cjs"
+    },
+    "./vite": {
+      "types": "./dist/vite.d.ts",
+      "import": "./dist/vite.js",
+      "require": "./dist/vite.cjs"
+    },
+    "./astro": {
+      "types": "./dist/astro.d.ts",
+      "import": "./dist/astro.js",
+      "require": "./dist/astro.cjs"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "env",
+    "environment",
+    "dotenv",
+    "zod",
+    "typescript",
+    "validation",
+    "type-safe",
+    "next",
+    "vite",
+    "astro",
+    "nextjs"
+  ],
+  "peerDependencies": {
+    "zod": ">=3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsup": "^8.0.0",
+    "typescript": "^5.4.0",
+    "vitest": "^1.4.0",
+    "zod": "^3.22.4"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "envrunes"
+  },
+  "bugs": {
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
+  },
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/envrunes",
+  "publishConfig": {
+    "access": "public"
+  }
+}

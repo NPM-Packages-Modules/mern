@@ -1,0 +1,7 @@
+# plugstack
+
+plugstack — Plugin registry with async init hooks. See `src/index.ts` for the public API surface.
+
+## License
+
+MIT

@@ -1,0 +1,37 @@
+/**
+ * Hardcoded top npm packages used for typosquat detection.
+ * Updated periodically; sourced from npm download counts.
+ */
+export const TOP_PACKAGES: readonly string[] = [
+  "react", "react-dom", "next", "vue", "svelte", "angular", "lodash", "axios",
+  "express", "fastify", "koa", "hono", "moment", "date-fns", "dayjs", "luxon",
+  "typescript", "ts-node", "tsx", "tsup", "esbuild", "webpack", "vite", "rollup",
+  "parcel", "babel", "eslint", "prettier", "jest", "vitest", "mocha", "chai",
+  "sinon", "ava", "cypress", "playwright", "puppeteer", "redux", "zustand",
+  "jotai", "mobx", "recoil", "rxjs", "graphql", "apollo-client", "apollo-server",
+  "prisma", "drizzle-orm", "kysely", "knex", "typeorm", "sequelize", "mongoose",
+  "pg", "mysql2", "sqlite3", "better-sqlite3", "redis", "ioredis", "bullmq",
+  "kafkajs", "amqplib", "socket.io", "ws", "uws", "polka", "fastify", "h3",
+  "commander", "yargs", "minimist", "inquirer", "prompts", "ora", "chalk",
+  "picocolors", "kleur", "boxen", "cli-table3", "figlet", "fs-extra", "fast-glob",
+  "glob", "globby", "rimraf", "del", "execa", "shelljs", "cross-env", "dotenv",
+  "joi", "yup", "zod", "ajv", "valibot", "superstruct", "io-ts", "class-validator",
+  "passport", "jsonwebtoken", "jose", "bcrypt", "bcryptjs", "argon2", "uuid",
+  "nanoid", "ulid", "cuid", "shortid", "ms", "humanize-duration", "pluralize",
+  "marked", "remark", "rehype", "showdown", "turndown", "cheerio", "jsdom",
+  "playwright-core", "node-fetch", "got", "ky", "openai", "anthropic", "ai",
+  "@modelcontextprotocol/sdk", "langchain", "llamaindex", "tiktoken", "gpt-3-encoder",
+  "tailwindcss", "postcss", "autoprefixer", "sass", "stylus", "less", "styled-components",
+  "@emotion/react", "@emotion/styled", "framer-motion", "react-router-dom",
+  "react-query", "@tanstack/react-query", "swr", "trpc", "@trpc/server",
+  "@trpc/client", "winston", "pino", "bunyan", "morgan", "debug", "sharp", "jimp",
+  "canvas", "puppeteer-core", "playwright-chromium", "exceljs", "xlsx", "pdfkit",
+  "pdf-lib", "pdfmake", "node-cron", "agenda", "bull", "node-schedule",
+  "@sentry/node", "@sentry/browser", "@sentry/react", "stripe", "@stripe/stripe-js",
+  "twilio", "nodemailer", "resend", "aws-sdk", "@aws-sdk/client-s3", "@aws-sdk/client-dynamodb",
+  "googleapis", "firebase", "firebase-admin", "supabase", "@supabase/supabase-js",
+  "mongodb", "mongoose", "elasticsearch", "@elastic/elasticsearch", "puppeteer-extra",
+  "playwright-extra", "discord.js", "telegraf", "node-telegram-bot-api",
+  "slack-sdk", "@slack/web-api", "fast-xml-parser", "xml2js", "yaml", "toml",
+  "ini", "msgpack-lite", "protobufjs", "grpc", "@grpc/grpc-js",
+];

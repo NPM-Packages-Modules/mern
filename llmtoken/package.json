@@ -1,0 +1,94 @@
+{
+  "name": "llmtoken",
+  "version": "0.1.1",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Universal LLM stream parser that normalizes SSE chunks from OpenAI, Anthropic, Google, and other providers into a single token event API.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    },
+    "./openai": {
+      "types": "./dist/providers/openai.d.ts",
+      "import": "./dist/providers/openai.js",
+      "require": "./dist/providers/openai.cjs"
+    },
+    "./anthropic": {
+      "types": "./dist/providers/anthropic.d.ts",
+      "import": "./dist/providers/anthropic.js",
+      "require": "./dist/providers/anthropic.cjs"
+    },
+    "./gemini": {
+      "types": "./dist/providers/gemini.d.ts",
+      "import": "./dist/providers/gemini.js",
+      "require": "./dist/providers/gemini.cjs"
+    },
+    "./groq": {
+      "types": "./dist/providers/groq.d.ts",
+      "import": "./dist/providers/groq.js",
+      "require": "./dist/providers/groq.cjs"
+    },
+    "./deepseek": {
+      "types": "./dist/providers/deepseek.d.ts",
+      "import": "./dist/providers/deepseek.js",
+      "require": "./dist/providers/deepseek.cjs"
+    },
+    "./ollama": {
+      "types": "./dist/providers/ollama.d.ts",
+      "import": "./dist/providers/ollama.js",
+      "require": "./dist/providers/ollama.cjs"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "llm",
+    "streaming",
+    "sse",
+    "openai",
+    "anthropic",
+    "gemini",
+    "groq",
+    "deepseek",
+    "ollama",
+    "stream"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsup": "^8.0.0",
+    "typescript": "^5.4.0",
+    "vitest": "^1.4.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPM-Packages-Modules/mern.git",
+    "directory": "llmtoken"
+  },
+  "bugs": {
+    "url": "https://github.com/NPM-Packages-Modules/mern/issues"
+  },
+  "homepage": "https://github.com/NPM-Packages-Modules/mern/tree/main/llmtoken"
+}
