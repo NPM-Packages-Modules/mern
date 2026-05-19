@@ -27,9 +27,14 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "plugins",
     "dynamic-import",
+    "mern-packages",
     "merndev",
+    "modstack",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "plugins",
     "typescript"
   ],
   "devDependencies": {

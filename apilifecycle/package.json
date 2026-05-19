@@ -27,11 +27,17 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "express",
+    "api",
+    "apilifecycle",
     "deprecation",
-    "version",
+    "express",
+    "mern-packages",
     "merndev",
-    "typescript"
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "typescript",
+    "version"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

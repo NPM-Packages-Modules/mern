@@ -30,7 +30,12 @@
   "keywords": [
     "cli",
     "express",
+    "lesscode",
+    "mern-packages",
     "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "typescript"
   ],
   "devDependencies": {

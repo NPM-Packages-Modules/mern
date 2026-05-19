@@ -28,8 +28,13 @@
   },
   "keywords": [
     "express",
-    "router",
+    "mern-packages",
     "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "routeblocks",
+    "router",
     "typescript"
   ],
   "devDependencies": {

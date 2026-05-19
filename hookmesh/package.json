@@ -27,13 +27,17 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "webhook",
-    "hmac",
     "express",
+    "hmac",
+    "hookmesh",
+    "mern-packages",
     "merndev",
     "nodejs",
+    "npm-pm",
+    "observability",
+    "saas",
     "typescript",
-    "saas"
+    "webhook"
   ],
   "devDependencies": {
     "@types/express": "^4.17.21",

@@ -27,12 +27,17 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "express",
     "errors",
-    "retry",
-    "resilience",
-    "middleware",
+    "express",
+    "mern-packages",
     "merndev",
+    "middleware",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "recoverpress",
+    "resilience",
+    "retry",
     "typescript"
   ],
   "peerDependencies": {

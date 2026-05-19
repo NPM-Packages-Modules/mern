@@ -27,10 +27,15 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "webhook",
-    "retry",
+    "hookretry",
+    "mern-packages",
     "merndev",
-    "typescript"
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "retry",
+    "typescript",
+    "webhook"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

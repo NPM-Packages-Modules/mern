@@ -3,13 +3,19 @@
   "version": "0.2.0",
   "description": "Mongoose plugin: soft delete, pagination, actor tracking, embedded audit trail (auditLog), optimistic versioning + history snapshots.",
   "keywords": [
-    "mongoose",
+    "mern",
+    "mern-packages",
+    "merndev",
     "mongodb",
+    "mongoose",
+    "mongoose-advanced-plugin",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "pagination",
     "plugin",
     "soft-delete",
-    "pagination",
-    "typescript",
-    "mern"
+    "typescript"
   ],
   "license": "MIT",
   "author": "Aftab Ahmad Khan (https://github.com/aftab-ahmad-khan-dev)",

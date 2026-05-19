@@ -27,15 +27,22 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "express",
-    "typescript",
-    "type-safe",
     "api",
+    "client",
+    "express",
+    "mern-packages",
+    "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "openapi",
-    "zod",
     "router",
+    "schema",
+    "type-safe",
+    "typepress",
+    "typescript",
     "validation",
-    "client"
+    "zod"
   ],
   "dependencies": {},
   "devDependencies": {

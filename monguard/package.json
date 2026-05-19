@@ -27,15 +27,21 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "index",
+    "mern",
+    "mern-packages",
+    "merndev",
     "mongodb",
     "mongoose",
-    "performance",
-    "query",
-    "index",
+    "monguard",
     "n+1",
-    "profiler",
+    "nodejs",
+    "npm-pm",
     "observability",
-    "mern"
+    "performance",
+    "profiler",
+    "query",
+    "typescript"
   ],
   "dependencies": {
     "picocolors": "^1.0.0"

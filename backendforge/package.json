@@ -31,13 +31,18 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "backend",
+    "backendforge",
     "cli",
     "express",
-    "scaffold",
-    "merndev",
     "generator",
-    "typescript",
-    "backend"
+    "mern-packages",
+    "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "scaffold",
+    "typescript"
   ],
   "dependencies": {
     "picocolors": "^1.0.0"

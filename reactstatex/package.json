@@ -27,12 +27,15 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "merndev",
-    "nodejs",
-    "typescript",
     "express",
+    "mern-packages",
+    "merndev",
     "mongodb",
-    "reactstatex"
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "reactstatex",
+    "typescript"
   ],
   "dependencies": {},
   "devDependencies": {

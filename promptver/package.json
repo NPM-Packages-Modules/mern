@@ -35,15 +35,23 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "llm",
-    "prompt",
-    "versioning",
     "a-b-testing",
-    "openai",
-    "anthropic",
+    "ab-testing",
     "ai",
+    "anthropic",
+    "cli",
+    "llm",
+    "mern-packages",
+    "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "openai",
+    "prompt",
+    "promptver",
     "rollback",
-    "ab-testing"
+    "typescript",
+    "versioning"
   ],
   "dependencies": {
     "commander": "^12.0.0",

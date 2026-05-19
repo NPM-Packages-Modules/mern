@@ -28,13 +28,20 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "sse",
-    "websocket",
-    "reconnect",
-    "eventsource",
     "backoff",
+    "eventsource",
     "heartbeat",
-    "stream"
+    "mern-packages",
+    "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "reconnect",
+    "reconnecting-stream",
+    "sse",
+    "stream",
+    "typescript",
+    "websocket"
   ],
   "peerDependencies": {
     "ws": ">=8.0.0"

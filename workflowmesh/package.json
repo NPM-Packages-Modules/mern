@@ -27,14 +27,19 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "workflow",
     "async",
+    "mern-packages",
+    "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "orchestration",
+    "pipeline",
     "retry",
     "rollback",
-    "pipeline",
-    "nodejs",
-    "typescript"
+    "typescript",
+    "workflow",
+    "workflowmesh"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

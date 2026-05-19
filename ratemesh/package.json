@@ -28,14 +28,17 @@
   },
   "keywords": [
     "express",
+    "mern",
+    "mern-packages",
     "merndev",
     "middleware",
     "nodejs",
+    "npm-pm",
     "observability",
     "rate-limiting",
+    "ratemesh",
     "redis",
-    "typescript",
-    "mern"
+    "typescript"
   ],
   "dependencies": {},
   "devDependencies": {

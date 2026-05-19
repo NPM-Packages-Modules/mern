@@ -31,13 +31,21 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "seed",
+    "cli",
     "database",
     "faker",
     "fixtures",
-    "testing",
+    "mern-packages",
     "merndev",
-    "cli"
+    "mongodb",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "seed",
+    "seedforge",
+    "seeding",
+    "testing",
+    "typescript"
   ],
   "dependencies": {
     "picocolors": "^1.0.0"

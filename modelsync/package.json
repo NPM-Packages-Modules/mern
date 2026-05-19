@@ -27,12 +27,16 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "merndev",
-    "nodejs",
-    "typescript",
     "express",
+    "mern-packages",
+    "merndev",
+    "modelsync",
     "mongodb",
-    "modelsync"
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "schema",
+    "typescript"
   ],
   "dependencies": {},
   "devDependencies": {

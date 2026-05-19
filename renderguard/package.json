@@ -27,15 +27,18 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "mern",
+    "mern-packages",
     "merndev",
     "nodejs",
+    "npm-pm",
     "observability",
     "performance",
     "profiler",
+    "re-render",
     "react",
-    "typescript",
-    "mern",
-    "re-render"
+    "renderguard",
+    "typescript"
   ],
   "dependencies": {},
   "devDependencies": {

@@ -27,15 +27,22 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "ai",
-    "llm",
-    "prompt",
-    "versioning",
-    "cache",
     "ab-test",
+    "ai",
     "analytics",
+    "anthropic",
+    "cache",
+    "llm",
+    "mern-packages",
+    "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "openai",
-    "anthropic"
+    "prompt",
+    "promptmesh",
+    "typescript",
+    "versioning"
   ],
   "dependencies": {},
   "devDependencies": {

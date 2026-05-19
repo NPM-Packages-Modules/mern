@@ -28,8 +28,13 @@
   },
   "keywords": [
     "cache",
-    "redis",
+    "cacheforge",
+    "mern-packages",
     "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "redis",
     "typescript"
   ],
   "devDependencies": {

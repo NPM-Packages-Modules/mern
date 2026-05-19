@@ -28,11 +28,15 @@
   },
   "keywords": [
     "express",
-    "router",
-    "modules",
-    "structure",
+    "mern-packages",
     "merndev",
+    "modules",
+    "modulify",
     "nodejs",
+    "npm-pm",
+    "observability",
+    "router",
+    "structure",
     "typescript"
   ],
   "peerDependencies": {

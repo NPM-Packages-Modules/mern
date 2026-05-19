@@ -27,16 +27,19 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "cron",
+    "jobforge",
     "jobs",
+    "mern",
+    "mern-packages",
     "merndev",
     "nodejs",
+    "npm-pm",
     "observability",
     "queue",
+    "retry",
     "typescript",
-    "worker",
-    "mern",
-    "cron",
-    "retry"
+    "worker"
   ],
   "dependencies": {},
   "devDependencies": {

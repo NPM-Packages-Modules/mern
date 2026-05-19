@@ -28,8 +28,13 @@
   },
   "keywords": [
     "express",
-    "middleware",
+    "mern-packages",
     "merndev",
+    "middleware",
+    "midflow",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "typescript"
   ],
   "devDependencies": {

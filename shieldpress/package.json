@@ -33,12 +33,16 @@
   "keywords": [
     "cli",
     "express",
+    "mern",
+    "mern-packages",
     "merndev",
     "nodejs",
+    "npm-pm",
+    "observability",
     "security",
+    "shieldpress",
     "static-analysis",
-    "typescript",
-    "mern"
+    "typescript"
   ],
   "dependencies": {
     "picocolors": "^1.0.0"

@@ -27,13 +27,16 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "nodejs",
-    "memory",
     "heap",
+    "heapguard",
+    "memory",
+    "mern-packages",
     "merndev",
-    "typescript",
+    "nodejs",
+    "npm-pm",
     "observability",
-    "performance"
+    "performance",
+    "typescript"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

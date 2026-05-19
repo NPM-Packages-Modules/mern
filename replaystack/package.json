@@ -31,13 +31,17 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "replay",
-    "http",
+    "cli",
     "debug",
+    "http",
+    "mern-packages",
     "merndev",
     "nodejs",
-    "typescript",
-    "cli"
+    "npm-pm",
+    "observability",
+    "replay",
+    "replaystack",
+    "typescript"
   ],
   "dependencies": {
     "picocolors": "^1.0.0"

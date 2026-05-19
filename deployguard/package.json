@@ -31,15 +31,21 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "ci",
     "cli",
     "deploy",
+    "deployguard",
     "devops",
     "docker",
-    "merndev",
-    "nodejs",
-    "typescript",
     "mern",
+    "mern-packages",
+    "merndev",
     "mongo",
+    "mongodb",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "typescript",
     "validation"
   ],
   "dependencies": {

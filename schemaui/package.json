@@ -27,13 +27,19 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "react",
-    "zod",
     "form",
-    "validation",
+    "mern-packages",
     "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "react",
+    "schema",
+    "schemaui",
     "typescript",
-    "schema"
+    "ui",
+    "validation",
+    "zod"
   ],
   "dependencies": {
     "zod": "^3.23.8"

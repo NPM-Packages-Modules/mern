@@ -27,12 +27,17 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "rbac",
-    "permissions",
-    "express",
     "authorization",
-    "roles",
+    "express",
+    "mern-packages",
     "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "permissions",
+    "policyflow",
+    "rbac",
+    "roles",
     "typescript"
   ],
   "peerDependencies": {

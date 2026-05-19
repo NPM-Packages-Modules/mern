@@ -27,10 +27,15 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "upload",
-    "pipeline",
+    "mern-packages",
     "merndev",
-    "typescript"
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "pipeline",
+    "typescript",
+    "upload",
+    "uploadflow"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

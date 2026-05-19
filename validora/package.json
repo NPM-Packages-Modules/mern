@@ -27,13 +27,18 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "zod",
-    "validation",
+    "api",
     "express",
+    "mern-packages",
     "merndev",
     "nodejs",
+    "npm-pm",
+    "observability",
+    "schema",
     "typescript",
-    "api"
+    "validation",
+    "validora",
+    "zod"
   ],
   "dependencies": {
     "zod": "^3.23.8"

@@ -27,9 +27,14 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "express",
     "controller",
+    "ctrlflow",
+    "express",
+    "mern-packages",
     "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "typescript"
   ],
   "devDependencies": {

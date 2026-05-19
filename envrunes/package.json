@@ -47,17 +47,26 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "astro",
+    "cli",
+    "config",
+    "dotenv",
     "env",
     "environment",
-    "dotenv",
-    "zod",
+    "envrunes",
+    "mern-packages",
+    "merndev",
+    "next",
+    "nextjs",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "schema",
+    "type-safe",
     "typescript",
     "validation",
-    "type-safe",
-    "next",
     "vite",
-    "astro",
-    "nextjs"
+    "zod"
   ],
   "peerDependencies": {
     "zod": ">=3.0.0"

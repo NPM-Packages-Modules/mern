@@ -32,14 +32,21 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "realtime",
-    "websocket",
+    "mern",
+    "mern-packages",
+    "merndev",
     "mongodb",
-    "sync",
-    "react",
-    "subscription",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "optimistic",
-    "mern"
+    "react",
+    "realtime",
+    "subscription",
+    "sync",
+    "syncora",
+    "typescript",
+    "websocket"
   ],
   "dependencies": {
     "ws": "^8.16.0"

@@ -27,13 +27,17 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "api",
     "express",
-    "mock",
+    "mern-packages",
     "merndev",
+    "mock",
+    "mockpress",
     "nodejs",
-    "typescript",
+    "npm-pm",
+    "observability",
     "testing",
-    "api"
+    "typescript"
   ],
   "dependencies": {
     "@mr-aftab-ahmad-khan/routecheck": "^0.1.0"

@@ -28,10 +28,16 @@
   },
   "keywords": [
     "express",
-    "zod",
-    "validation",
+    "mern-packages",
     "merndev",
-    "typescript"
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "pipeguard",
+    "schema",
+    "typescript",
+    "validation",
+    "zod"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

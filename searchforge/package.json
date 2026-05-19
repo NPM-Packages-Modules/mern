@@ -27,9 +27,14 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "mongodb",
-    "search",
+    "mern-packages",
     "merndev",
+    "mongodb",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "search",
+    "searchforge",
     "typescript"
   ],
   "devDependencies": {

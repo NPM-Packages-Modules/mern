@@ -27,11 +27,16 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "rules",
-    "workflow",
     "business-logic",
+    "logicforge",
+    "mern-packages",
     "merndev",
-    "typescript"
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "rules",
+    "typescript",
+    "workflow"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

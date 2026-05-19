@@ -32,14 +32,20 @@
   },
   "keywords": [
     "architecture",
+    "archsense",
     "audit",
-    "cli",
-    "circular-dependency",
-    "lint",
-    "structure",
-    "score",
     "backend",
-    "nodejs"
+    "circular-dependency",
+    "cli",
+    "lint",
+    "mern-packages",
+    "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "score",
+    "structure",
+    "typescript"
   ],
   "dependencies": {
     "picocolors": "^1.0.0"

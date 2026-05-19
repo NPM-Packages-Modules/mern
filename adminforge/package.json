@@ -28,11 +28,16 @@
   },
   "keywords": [
     "admin",
+    "adminforge",
     "crud",
     "dashboard",
+    "mern-packages",
     "merndev",
-    "typescript",
-    "schema"
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "schema",
+    "typescript"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

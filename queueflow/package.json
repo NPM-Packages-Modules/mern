@@ -27,10 +27,16 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "queue",
-    "workflow",
+    "jobs",
+    "mern-packages",
     "merndev",
-    "typescript"
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "queue",
+    "queueflow",
+    "typescript",
+    "workflow"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

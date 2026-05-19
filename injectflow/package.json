@@ -27,11 +27,16 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "di",
-    "ioc",
     "container",
+    "di",
     "express",
+    "injectflow",
+    "ioc",
+    "mern-packages",
     "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "typescript"
   ],
   "devDependencies": {

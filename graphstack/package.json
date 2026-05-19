@@ -28,10 +28,15 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "cli",
     "dependencies",
     "graph",
-    "cli",
+    "graphstack",
+    "mern-packages",
     "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "typescript"
   ],
   "devDependencies": {

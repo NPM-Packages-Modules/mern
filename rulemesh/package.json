@@ -27,12 +27,17 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "rules",
-    "events",
-    "workflow",
     "automation",
+    "events",
+    "mern-packages",
     "merndev",
-    "typescript"
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "rulemesh",
+    "rules",
+    "typescript",
+    "workflow"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

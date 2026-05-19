@@ -31,13 +31,17 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "openapi",
-    "sdk",
-    "typescript",
+    "cli",
+    "codegen",
+    "mern-packages",
     "merndev",
     "nodejs",
-    "cli",
-    "codegen"
+    "npm-pm",
+    "observability",
+    "openapi",
+    "sdk",
+    "sdkforge",
+    "typescript"
   ],
   "dependencies": {
     "picocolors": "^1.0.0"

@@ -27,10 +27,15 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "mongodb",
-    "transactions",
-    "retry",
+    "mern-packages",
     "merndev",
+    "mongodb",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "retry",
+    "transactions",
+    "transactly",
     "typescript"
   ],
   "devDependencies": {

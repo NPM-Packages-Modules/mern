@@ -31,14 +31,21 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "env",
-    "environment",
-    "validation",
-    "schema",
-    "dotenv",
-    "secrets",
     "ci",
-    "cli"
+    "cli",
+    "dotenv",
+    "env",
+    "envguard",
+    "environment",
+    "mern-packages",
+    "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "schema",
+    "secrets",
+    "typescript",
+    "validation"
   ],
   "dependencies": {
     "picocolors": "^1.0.0"

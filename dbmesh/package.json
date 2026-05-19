@@ -28,10 +28,15 @@
   },
   "keywords": [
     "database",
+    "dbmesh",
+    "mern-packages",
+    "merndev",
     "mongodb",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "postgres",
     "redis",
-    "merndev",
     "typescript"
   ],
   "devDependencies": {

@@ -27,17 +27,24 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "upload",
-    "multer",
-    "s3",
-    "r2",
-    "multipart",
     "express",
-    "hono",
     "fastify",
-    "next",
     "file",
-    "nextjs"
+    "fileflux",
+    "hono",
+    "mern-packages",
+    "merndev",
+    "multer",
+    "multipart",
+    "next",
+    "nextjs",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "r2",
+    "s3",
+    "typescript",
+    "upload"
   ],
   "peerDependencies": {
     "@aws-sdk/client-s3": ">=3.0.0"

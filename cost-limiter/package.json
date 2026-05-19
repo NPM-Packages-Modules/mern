@@ -27,14 +27,22 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "llm",
-    "rate-limit",
+    "ai-gateway",
+    "anthropic",
     "budget",
     "cost",
+    "cost-limiter",
+    "llm",
+    "mern-packages",
+    "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "openai",
-    "anthropic",
+    "rate-limit",
+    "rate-limiting",
     "redis",
-    "ai-gateway"
+    "typescript"
   ],
   "peerDependencies": {
     "openai": ">=4.0.0",

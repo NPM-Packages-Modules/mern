@@ -27,10 +27,15 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "mongodb",
-    "populate",
-    "relations",
+    "mern-packages",
     "merndev",
+    "mongodb",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "populate",
+    "relaforge",
+    "relations",
     "typescript"
   ],
   "devDependencies": {

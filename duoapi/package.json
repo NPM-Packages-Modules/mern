@@ -27,10 +27,16 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "graphql",
-    "rest",
     "api",
+    "duoapi",
+    "graphql",
+    "mern-packages",
     "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "rest",
+    "schema",
     "typescript"
   ],
   "devDependencies": {

@@ -30,14 +30,21 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "audit",
+    "chainsentry",
+    "cli",
+    "mern-packages",
+    "merndev",
+    "nodejs",
     "npm",
+    "npm-pm",
+    "observability",
+    "postinstall",
+    "scanner",
     "security",
     "supply-chain",
-    "audit",
-    "typosquat",
-    "postinstall",
-    "cli",
-    "scanner"
+    "typescript",
+    "typosquat"
   ],
   "dependencies": {
     "commander": "^12.0.0",

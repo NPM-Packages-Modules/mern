@@ -27,9 +27,14 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "retry",
-    "resilience",
+    "mern-packages",
     "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "resilience",
+    "retry",
+    "retrystack",
     "typescript"
   ],
   "devDependencies": {

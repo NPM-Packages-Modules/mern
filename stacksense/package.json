@@ -27,14 +27,21 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "express",
-    "error",
-    "middleware",
-    "stack-trace",
-    "fingerprint",
     "debugging",
+    "diagnostic",
+    "error",
+    "errors",
+    "express",
+    "fingerprint",
+    "mern-packages",
+    "merndev",
+    "middleware",
+    "nodejs",
+    "npm-pm",
     "observability",
-    "diagnostic"
+    "stack-trace",
+    "stacksense",
+    "typescript"
   ],
   "dependencies": {
     "picocolors": "^1.0.0"

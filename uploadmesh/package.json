@@ -27,15 +27,19 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "express",
+    "mern",
+    "mern-packages",
     "merndev",
+    "multer",
     "nodejs",
+    "npm-pm",
+    "observability",
     "s3",
     "typescript",
     "upload",
-    "express",
-    "validation",
-    "mern",
-    "multer"
+    "uploadmesh",
+    "validation"
   ],
   "dependencies": {},
   "devDependencies": {

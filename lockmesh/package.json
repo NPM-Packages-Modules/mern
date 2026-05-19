@@ -27,9 +27,14 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "lock",
     "concurrency",
+    "lock",
+    "lockmesh",
+    "mern-packages",
     "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "typescript"
   ],
   "devDependencies": {

@@ -27,12 +27,16 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
+    "eventmesh",
     "events",
-    "pubsub",
+    "mern-packages",
     "merndev",
+    "microservices",
     "nodejs",
-    "typescript",
-    "microservices"
+    "npm-pm",
+    "observability",
+    "pubsub",
+    "typescript"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

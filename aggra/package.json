@@ -27,13 +27,18 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "mongodb",
+    "aggra",
     "aggregation",
-    "pipeline",
-    "mongoose",
+    "mern-packages",
     "merndev",
-    "typescript",
-    "query"
+    "mongodb",
+    "mongoose",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "pipeline",
+    "query",
+    "typescript"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

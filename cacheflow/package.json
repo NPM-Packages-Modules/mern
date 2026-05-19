@@ -28,10 +28,15 @@
   },
   "keywords": [
     "cache",
+    "cacheflow",
     "invalidation",
-    "redis",
-    "mongodb",
+    "mern-packages",
     "merndev",
+    "mongodb",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "redis",
     "typescript"
   ],
   "devDependencies": {

@@ -28,11 +28,16 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "testing",
-    "vitest",
     "cli",
+    "mern-packages",
     "merndev",
-    "typescript"
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "testforge",
+    "testing",
+    "typescript",
+    "vitest"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

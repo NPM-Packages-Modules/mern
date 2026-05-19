@@ -28,10 +28,15 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "docs",
-    "markdown",
     "cli",
+    "docs",
+    "docstack",
+    "markdown",
+    "mern-packages",
     "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "typescript"
   ],
   "devDependencies": {

@@ -27,12 +27,17 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "express",
     "api",
+    "apiblocks",
     "composition",
-    "middleware",
-    "rest",
+    "express",
+    "mern-packages",
     "merndev",
+    "middleware",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "rest",
     "typescript"
   ],
   "peerDependencies": {

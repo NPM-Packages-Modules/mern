@@ -31,11 +31,16 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "refactor",
     "cli",
-    "static-analysis",
+    "codemorph",
     "dedupe",
+    "mern-packages",
     "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "refactor",
+    "static-analysis",
     "typescript"
   ],
   "dependencies": {

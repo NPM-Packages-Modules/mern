@@ -27,14 +27,20 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "performance",
-    "profiling",
-    "express",
-    "mongodb",
-    "memory",
-    "tracing",
     "dashboard",
-    "observability"
+    "express",
+    "memory",
+    "mern-packages",
+    "merndev",
+    "mongodb",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "performance",
+    "perfstack",
+    "profiling",
+    "tracing",
+    "typescript"
   ],
   "dependencies": {},
   "devDependencies": {

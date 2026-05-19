@@ -27,10 +27,15 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "worker",
     "jobs",
+    "mern-packages",
     "merndev",
-    "typescript"
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "typescript",
+    "worker",
+    "workerforge"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

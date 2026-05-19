@@ -27,11 +27,17 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "zod",
     "dto",
-    "schema",
+    "mern-packages",
     "merndev",
-    "typescript"
+    "mongodb",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "schema",
+    "schemagen",
+    "typescript",
+    "zod"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

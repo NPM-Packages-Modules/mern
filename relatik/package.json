@@ -29,13 +29,19 @@
   "keywords": [
     "crud",
     "express",
+    "mern-packages",
+    "merndev",
     "mongodb",
     "mongoose",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "pagination",
+    "relatik",
     "relationships",
     "rest",
-    "merndev",
-    "typescript",
-    "pagination"
+    "schema",
+    "typescript"
   ],
   "peerDependencies": {
     "express": "^4.0.0 || ^5.0.0",

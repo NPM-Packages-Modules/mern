@@ -28,9 +28,15 @@
   },
   "keywords": [
     "config",
-    "zod",
+    "configforge",
+    "mern-packages",
     "merndev",
-    "typescript"
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "schema",
+    "typescript",
+    "zod"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

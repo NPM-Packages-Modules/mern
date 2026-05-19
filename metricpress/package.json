@@ -27,9 +27,14 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "metrics",
     "express",
+    "mern-packages",
     "merndev",
+    "metricpress",
+    "metrics",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "typescript"
   ],
   "devDependencies": {

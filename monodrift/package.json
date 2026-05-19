@@ -30,17 +30,24 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "monorepo",
+    "cli",
     "dependencies",
-    "drift",
-    "pnpm",
-    "yarn",
-    "npm",
-    "workspaces",
     "dependency",
-    "workspace",
+    "drift",
+    "mern-packages",
+    "merndev",
+    "monodrift",
+    "monorepo",
+    "nodejs",
+    "npm",
+    "npm-pm",
+    "observability",
+    "pnpm",
+    "typescript",
     "version",
-    "cli"
+    "workspace",
+    "workspaces",
+    "yarn"
   ],
   "dependencies": {
     "commander": "^12.0.0",

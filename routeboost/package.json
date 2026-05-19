@@ -27,10 +27,15 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "express",
-    "performance",
     "api",
+    "express",
+    "mern-packages",
     "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "performance",
+    "routeboost",
     "typescript"
   ],
   "devDependencies": {

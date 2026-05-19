@@ -28,11 +28,15 @@
   },
   "keywords": [
     "feature-flags",
-    "rollout",
+    "flagmesh",
+    "mern-packages",
     "merndev",
     "nodejs",
-    "typescript",
-    "saas"
+    "npm-pm",
+    "observability",
+    "rollout",
+    "saas",
+    "typescript"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",

@@ -27,9 +27,15 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "repository",
     "dal",
+    "dbflow",
+    "mern-packages",
     "merndev",
+    "mongodb",
+    "nodejs",
+    "npm-pm",
+    "observability",
+    "repository",
     "typescript"
   ],
   "devDependencies": {

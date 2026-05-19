@@ -27,12 +27,16 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "express",
     "api-versioning",
+    "express",
+    "mern-packages",
     "merndev",
+    "middleware",
     "nodejs",
+    "npm-pm",
+    "observability",
     "typescript",
-    "middleware"
+    "versionpress"
   ],
   "devDependencies": {
     "@types/express": "^4.17.21",

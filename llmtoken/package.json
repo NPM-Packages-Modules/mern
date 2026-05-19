@@ -61,16 +61,23 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [
-    "llm",
-    "streaming",
-    "sse",
-    "openai",
     "anthropic",
+    "deepseek",
     "gemini",
     "groq",
-    "deepseek",
+    "llm",
+    "llmtoken",
+    "mern-packages",
+    "merndev",
+    "nodejs",
+    "npm-pm",
+    "observability",
     "ollama",
-    "stream"
+    "openai",
+    "sse",
+    "stream",
+    "streaming",
+    "typescript"
   ],
   "devDependencies": {
     "@types/node": "^20.11.0",
